@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/Ds/oSSaYYuzgIlBIrpXM7zsUziyzzMrpm8xp0creSz2gCFZwUp/jsR3PXcF+ndOxI13vzrtZ55Cukm+xC+ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton.LAPTOP-VPID6AQ9\\source\\repos\\TestJson\\TestJson\\TestJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton.LAPTOP-VPID6AQ9\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
